@@ -1,0 +1,1 @@
+Log{errorMessage='Sıfıra bölme hatası', errorCode=500, className='Main', methodName='bol', zaman=2024-03-03T22:06:32.991393, detay='/ by zero'}
